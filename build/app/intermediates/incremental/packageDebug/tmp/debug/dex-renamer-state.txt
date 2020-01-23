@@ -1,0 +1,4 @@
+#Tue Oct 29 14:21:58 IST 2019
+base.0=E\:\\Android\\flutter_fashion_app_ui\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
